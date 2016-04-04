@@ -20,4 +20,6 @@ ex: mocha ../test/Tests/XXX.js
 
 
 
-
+The Data folder will contain js files where all the test data that is required for a test will be present in that folder.
+The Tests folder will contain tests.
+The Utils folder will contain the environment details file where we can add the common data that is required for all the tests
