@@ -1,16 +1,15 @@
 # DHISTests
 API framework POC
 
-
-1. Install npm
+--Install npm
 
 npm install npm -g
 
-2. Install Chakram
+--Install Chakram
 
 npm install chakram -- save –dev
 
-3. Install Mocha
+--Install Mocha
 
 npm install -g mocha
 
