@@ -5,6 +5,5 @@ module.exports = {
          "username": "admin",
          "password": "district"
          }
-         },
-    testLocation: "/Users/nalinim/test/Tests/"
+         }
 };
